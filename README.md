@@ -1,5 +1,22 @@
 # Projects
 ![](assets/main.png)
+
+
+
+### Content
+- [About](#about)
+- [Work Experience](#work-experience)
+  - [Navicon](#navicon)
+  - [Intelligent Product and System](#intelligent-product-and-system)
+  - [ARQ](#arq)
+- [WEB](#web-development)
+  - [Work](#web-work)
+  - [Hobby](#web-hobby)
+- [IOS](#ios-development)
+  - [Work](#web-work)
+  - [Hobby](#web-hobby)
+- [Freelance](#freelance)
+
 ## About
 
   Hello dears! My name is Maxim I am Front-end and IOS developer. Since the first time I saw on the screen "Hello world!"I realized that this is what I want to devote myself to! Since then has flowed away a lot of lines of code.
@@ -27,22 +44,6 @@ My main responsibilities in ios development:
 * sociability;
 * the ability to work in a team;
 * attention to detail.
-
-
-### Content
-- [About](#about)
-- [Work Experience](#work-experience)
-  - [Navicon](#navicon)
-  - [Intelligent Product and System](#intelligent-product-and-system)
-  - [ARQ](#work-arq)
-- [WEB](#web-development)
-  - [Work](#web-work)
-  - [Hobby](#web-hobby)
-- [IOS](#ios-development)
-  - [Work](#web-work)
-  - [Hobby](#web-hobby)
-- [Freelance](#freelance)
-
 
 # Work Experience
 
