@@ -3,7 +3,7 @@
 
 
 
-### Content
+## Content
 - [About](#about)
 - [Work Experience](#work-experience)
   - [Navicon](#navicon)
@@ -11,10 +11,17 @@
   - [ARQ](#arq)
   - [Freelance](#freelance)
 - [WEB Development](#web-development)
-  - [Work](#web-work)
-- [IOS](#ios-development)
-  - [Work](#web-work)
-  - [Hobby](#web-hobby)
+  - [API Tello](#api-trello)
+  - [SVG](#svg)
+  - [Free time](#free-time-web)
+- [IOS Development](#ios-development)
+  - [Autolayout](#autolayout)
+  - [](#)
+  - [Free time](#free-time-ios)
+- [Free time](#free-time)
+- [University](#niversity)
+  - [Java](#java)
+- [Test Task](#test-task) 
 
 
 ## About
@@ -126,10 +133,62 @@ Apply the skills
 
 # WEB Development
 
+## API Tello
 * [API Trello](https://github.com/taijased/element-ui-validation-form) Form used API Trello
-* [Fill DataSet for AI](http://mmwro.revealyan.info/) Dataset to determine the bolts. Link to the repository [here](https://github.com/taijased/fill-dataset-for-ai) 
+
+## SVG
 * [Map Russia](https://vue-map-russia.firebaseapp.com/) Using SVG map. Link to the repository [here](https://github.com/taijased/vue-map-russia)
 
+
+# Free time Web
+
+* [taijased](https://taijased.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/taijased-info)
+* [revealyan](https://revealyan.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/revealyan-card)
+* [Agrotools](http://agrotools.store/) Site for brother.(Site in progress) Link to the repository [here](https://github.com/taijased/agrotools-spa)
+* [Fill DataSet for AI](http://mmwro.revealyan.info/) Dataset to determine the bolts. Link to the repository [here](https://github.com/taijased/fill-dataset-for-ai) 
+
+
+# IOS Development
+
+## Autolayout
+* [NSLayoutConstraint programmatically](https://github.com/taijased/autolayout-example) Autolayout example with NSLayoutConstraint.
+
+## API
+
+* [Download and Unzip](https://github.com/taijased/download-and-unzip)
+
+## AR
+
+* [Unistroy](https://github.com/taijased/demo-unistroy) Need to fix the display
+
+
+## Template
+
+### MVVM
+  * [Table MVVM](https://github.com/taijased/table-MVVM-template)
+  * [MVVM Coordinator](https://github.com/taijased/MVVM-Coordinator-template)
+  
+  
+### OAuth2
+* [Facebook and Google](https://github.com/taijased/swift-OAuth2-template) (in progress) OAuth2 template
+
+
+## Playground
+
+* [Base Swift](https://github.com/taijased/base-playground-swift)
+
+
+## CoreData
+* [ToDo](https://github.com/taijased/todo-coredata)
+
+## Coordinator
+* [MVVM Coordinator](https://github.com/taijased/MVVM-Coordinator)
+* [Swift Coordinator](https://github.com/taijased/swift-Coordinator)
+
+## Free time IOS
+
+* [Feed Recipe](https://github.com/taijased/FeedRecipe)
+* [Creative Workshop](https://github.com/taijased/creative-workshop)
 
 # Test Task
 
@@ -138,15 +197,11 @@ Apply the skills
 * [Flexbox Cats](https://github.com/taijased/flexboxKOTE)
 
 
-# Free time
-
-* [taijased](https://taijased.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/taijased-info)
-* [revealyan](https://revealyan.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/revealyan-card)
-* [Agrotools](http://agrotools.store/) Site for brother.(Site in progress) Link to the repository [here](https://github.com/taijased/agrotools-spa)
 
 
 # University
 
+## Java
 * [Univers Cours 2](https://github.com/taijased/univers_cours2_Java) Java.Eclipse. Old projects from the University. 
 
 
