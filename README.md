@@ -143,8 +143,7 @@ Apply the skills
 ## SVG
 * [Map Russia](https://vue-map-russia.firebaseapp.com/) Using SVG map. Link to the repository [here](https://github.com/taijased/vue-map-russia)
 
-
-# Free time Web
+## Free time Web
 
 * [taijased](https://taijased.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/taijased-info)
 * [revealyan](https://revealyan.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/revealyan-card)
