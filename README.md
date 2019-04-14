@@ -49,8 +49,8 @@ My main responsibilities in ios development:
 
 ### Navicon
 
-**Junior developer (.NET)** March 2017 — April 2017 (2 months)
-**City** Kazan
+**Junior developer (.NET)** March 2017 — April 2017 (2 months)__
+**City** Kazan__
 Apply the skills
 * C#
 * .NET
