@@ -9,13 +9,14 @@
   - [Navicon](#navicon)
   - [Intelligent Product and System](#intelligent-product-and-system)
   - [ARQ](#arq)
+  - [Freelance](#freelance)
 - [WEB](#web-development)
   - [Work](#web-work)
   - [Hobby](#web-hobby)
 - [IOS](#ios-development)
   - [Work](#web-work)
   - [Hobby](#web-hobby)
-- [Freelance](#freelance)
+
 
 ## About
 
@@ -104,6 +105,23 @@ Apply the skills
 * [ARQ](https://arq.su/) link to the repository [here](https://github.com/taijased/arq-spa)
 * [ARI](https://ari.house/) (Site in progress) link to the repository [here](https://github.com/taijased/ari-temp)
 * Tattelecom link to the repository [here](https://github.com/taijased/letai-spa)
+
+
+
+## Freelancer
+
+**Web Developer | IOS Developer**
+
+Apply the skills
+* Swift
+* Vue.js 
+
+### Projects
+
+* [Bookmarklet Parser](https://github.com/taijased/parser-bookmarklet-js) Parser bookmarklet JavaScript
+* [Service Medical](https://github.com/taijased/service-medical) Service project for medical professionals
+* [Elementary Math](https://github.com/taijased/elementary-math) IOS Application
+* [Tattelecom](https://github.com/taijased/letai-spa) Tattelecom letai
 
 
 
