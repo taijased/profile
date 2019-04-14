@@ -6,13 +6,14 @@
 Since the first time I saw on the screen "Hello world!"I realized that this is what I want to devote myself to! 
 Since then has flowed away a lot of lines of code.
 
+* View and edit markdown documents
   My main responsibilities in frontend development: 
-    * project development (frontend part) from scratch;
-    * revision of existing projects;
-    * development of business logic and back-end system for product support;
-    * user interface design;
-    * the creation of a functional API (joint work with front-end developers);
-    * cross-browser and adaptive HTML5/CSS3 layout.
+* project development (frontend part) from scratch;
+* revision of existing projects;
+* development of business logic and back-end system for product support;
+* user interface design;
+* the creation of a functional API (joint work with front-end developers);
+* cross-browser and adaptive HTML5/CSS3 layout.
   
   My main responsibilities in ios development:
     * development of mobile applications for iOS;
