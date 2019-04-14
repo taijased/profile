@@ -46,9 +46,9 @@ My main responsibilities in ios development:
 
 # Work Experience
 
-## Navicon  March 2017 — April 2017 (2 months)
+## Navicon 
 
-**Junior developer (.NET)**
+**Junior developer (.NET)**  March 2017 — April 2017 (2 months)
 
 **City:** Kazan
 
@@ -60,9 +60,9 @@ Apply the skills
 * .NET
 * JavaScript
 
-## Intelligent Product and System August 2018 — March 2019 (8 months)
+## Intelligent Product and System
 
-**Web Developer**
+**Web Developer**  August 2018 — March 2019 (8 months)
 
 **City:** Kazan
 
@@ -88,9 +88,9 @@ Apply the skills
 * [Расчитай НДС](https://xn--80aamogyqjafg2d.xn--p1ai/)
 
 
-## ARQ October 2018 — Present (7 months)
+## ARQ
 
-**Web Developer | IOS Developer (Middle)**
+**Web Developer | IOS Developer (Middle)**  October 2018 — Present (7 months)
 
 Apply the skills
 * Swift
@@ -98,7 +98,7 @@ Apply the skills
 
 ### Projects
 
-* [Valentine Day](https://love.tim.agency/) link to the repository [here](https://github.com/taijased/valentine-day)
+* [Valentine Day](https://love.tim.agency/) Just to fun. Link to the repository [here](https://github.com/taijased/valentine-day)
 * [Tim Agency](https://tim.agency/) (Site in progress) link to the repository [here](https://github.com/taijased/cup-tim.agency)
 * [ARQ](https://arq.su/) link to the repository [here](https://github.com/taijased/arq-spa)
 * [ARI](https://ari.house/) (Site in progress) link to the repository [here](https://github.com/taijased/ari-temp)
