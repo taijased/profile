@@ -1,4 +1,4 @@
-# Projects
+
 ![](assets/main.png)
 
 ## Content
