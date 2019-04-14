@@ -194,8 +194,9 @@ Apply the skills
 ## OAuth2
 * [Facebook and Google](https://github.com/taijased/swift-OAuth2-template) (in progress) OAuth2 template
 
-![](assets/test-task.png)
+
 # Test Task
+![](assets/test-task.png)
 
 * [Intelligent Products & System](https://vue-test-intelligent.firebaseapp.com/) Link to the repository [here](https://github.com/taijased/test-project-intelligent)
 * [I-Novus](https://github.com/taijased/TestProject_i-novus) Junior frontend. Company i-novis.ru
