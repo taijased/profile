@@ -10,9 +10,8 @@
   - [Intelligent Product and System](#intelligent-product-and-system)
   - [ARQ](#arq)
   - [Freelance](#freelance)
-- [WEB](#web-development)
+- [WEB Development](#web-development)
   - [Work](#web-work)
-  - [Hobby](#web-hobby)
 - [IOS](#ios-development)
   - [Work](#web-work)
   - [Hobby](#web-hobby)
@@ -108,7 +107,7 @@ Apply the skills
 
 
 
-## Freelancer
+## Freelance
 
 **Web Developer | IOS Developer**
 
@@ -122,6 +121,34 @@ Apply the skills
 * [Service Medical](https://github.com/taijased/service-medical) Service project for medical professionals
 * [Elementary Math](https://github.com/taijased/elementary-math) IOS Application
 * [Tattelecom](https://github.com/taijased/letai-spa) Tattelecom letai
+* [Agroshop](https://github.com/taijased/agroshop2017) Old projects agroshop
+
+
+# WEB Development
+
+* [API Trello](https://github.com/taijased/element-ui-validation-form) Form used API Trello
+* [Fill DataSet for AI](http://mmwro.revealyan.info/) Dataset to determine the bolts. Link to the repository [here](https://github.com/taijased/fill-dataset-for-ai) 
+* [Map Russia](https://vue-map-russia.firebaseapp.com/) Using SVG map. Link to the repository [here](https://github.com/taijased/vue-map-russia)
+
+
+# Test Task
+
+* [Intelligent Products & System](https://vue-test-intelligent.firebaseapp.com/) Link to the repository [here](https://github.com/taijased/test-project-intelligent)
+* [I-Novus](https://github.com/taijased/TestProject_i-novus) Junior frontend. Company i-novis.ru
+* [Flexbox Cats](https://github.com/taijased/flexboxKOTE)
+
+
+# Free time
+
+* [taijased](https://taijased.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/taijased-info)
+* [revealyan](https://revealyan.info/) (Site in progress) portfilio. Link to the repository [here](https://github.com/taijased/revealyan-card)
+* [Agrotools](http://agrotools.store/) Site for brother.(Site in progress) Link to the repository [here](https://github.com/taijased/agrotools-spa)
+
+
+# University
+
+* [Univers Cours 2](https://github.com/taijased/univers_cours2_Java) Java.Eclipse. Old projects from the University. 
+
 
 
 
