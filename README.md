@@ -116,7 +116,6 @@ Apply the skills
 * [Tim Agency](https://tim.agency/) (Site in progress) link to the repository [here](https://github.com/taijased/cup-tim.agency)
 * [ARQ](https://arq.su/) link to the repository [here](https://github.com/taijased/arq-spa)
 * [ARI](https://ari.house/) (Site in progress) link to the repository [here](https://github.com/taijased/ari-temp)
-* Tattelecom link to the repository [here](https://github.com/taijased/letai-spa)
 
 
 
