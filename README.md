@@ -47,7 +47,7 @@ My main responsibilities in ios development:
 
 ## Intelligent Product and System
 
-**Web Developer** March 2017 — April 2017 (2 months)
+**Web Developer** August 2018 — March 2019 (8 months)
 
 **City:** Kazan
 
