@@ -7,7 +7,7 @@ Since the first time I saw on the screen "Hello world!"I realized that this is w
 Since then has flowed away a lot of lines of code.
 
   My main responsibilities in frontend development: 
-    - project development (frontend part) from scratch;
+    - []()project development (frontend part) from scratch;
     - revision of existing projects;
     - development of business logic and back-end system for product support;
     - user interface design;
