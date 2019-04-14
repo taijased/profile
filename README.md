@@ -31,7 +31,7 @@ My main responsibilities in ios development:
 
 ### Content
 - [About](#about)
-- [Work](#work)
+- [Work Experience](#work-experience)
   - [Navicon](#navicon)
   - [Intelligent Product and System](#intelligent-product-and-system)
   - [ARQ](#work-arq)
@@ -41,15 +41,32 @@ My main responsibilities in ios development:
 - [IOS](#ios-development)
   - [Work](#web-work)
   - [Hobby](#web-hobby)
-- [IOS Game](#ios-game)
+- [Freelance](#freelance)
+
 
 # Work Experience
 
-## Intelligent Product and System
+## Navicon  March 2017 — April 2017 (2 months)
 
-**Web Developer** August 2018 — March 2019 (8 months)
+**Junior developer (.NET)**
 
 **City:** Kazan
+
+Participation in MS Dynamics CRM commercial projects as a developer: Participation in the design and development of information systems architecture; Development of functional extensions for MS Dynamics CRM; Web application development;
+Form customization; Testing modules; System setup; Carrying out pilot operation of the system.
+
+Apply the skills
+* C#
+* .NET
+* JavaScript
+
+## Intelligent Product and System August 2018 — March 2019 (8 months)
+
+**Web Developer**
+
+**City:** Kazan
+
+Design and implement user interfaces for websites and mobile applications. Adapt interfaces to viewing on devices with different screen sizes and resolutions. Create cross-platform applications with Cordova. Support site.
 
 Apply the skills
 * JavaScript
@@ -61,25 +78,39 @@ Apply the skills
 
 ### Projects
 
+* [live-press.ru](https://live-press.ru/)
+* [m.live-press.ru](https://m.live-press.ru/home)
+* [nknalog.ru](https://nknalog.ru/)
+* [ips-dev.com](https://ips-dev.com/)
+* [dig-city.ru](https://dig-city.ru/)
+* [24slide.ru](https://24slide.ru/)
+* [ontravel.ips-dev.com](http://ontravel.ips-dev.com)
+* [Расчитай НДС](https://xn--80aamogyqjafg2d.xn--p1ai/)
 
-* [Расчитай НДС](https://xn--80aamogyqjafg2d.xn--p1ai/) HTML, CSS, JavaScript
 
+## ARQ October 2018 — Present (7 months)
 
-
-
-
-
-## Navicon
-
-**Junior developer (.NET)** March 2017 — April 2017 (2 months)
-
-**City:** Kazan
+**Web Developer | IOS Developer (Middle)**
 
 Apply the skills
-* C#
-* .NET
-* JavaScript
+* Swift
+* Vue.js 
 
-## ARQ
+### Projects
+
+* [Valentine Day](https://love.tim.agency/) link to the repository [here](https://github.com/taijased/valentine-day)
+* [Tim Agency](https://tim.agency/) (Site in progress) link to the repository [here](https://github.com/taijased/cup-tim.agency)
+* [ARQ](https://arq.su/) link to the repository [here](https://github.com/taijased/arq-spa)
+* [ARI](https://ari.house/) (Site in progress) link to the repository [here](https://github.com/taijased/ari-temp)
+* Tattelecom link to the repository [here](https://github.com/taijased/letai-spa)
+
+
+
+
+
+
+
+
+
 
 
