@@ -16,9 +16,15 @@
   - [Free time](#free-time-web)
 - [IOS Development](#ios-development)
   - [Autolayout](#autolayout)
-  - [](#)
-  - [Free time](#free-time-ios)
-- [Free time](#free-time)
+  - [API](#api)
+  - [AR](#ar)
+  - [Playground](#playground)
+  - [Core Data](#core-data)
+  - [Coordinator](#coordinator)
+  - [Free time IOS](#free-time-ios)
+- [IOS Template](#ios-template)
+  - [MVVM](#mvvm)
+  - [OAuth2](#oauth2)
 - [University](#niversity)
   - [Java](#java)
 - [Test Task](#test-task) 
@@ -161,24 +167,12 @@ Apply the skills
 
 * [Unistroy](https://github.com/taijased/demo-unistroy) Need to fix the display
 
-
-## Template
-
-### MVVM
-  * [Table MVVM](https://github.com/taijased/table-MVVM-template)
-  * [MVVM Coordinator](https://github.com/taijased/MVVM-Coordinator-template)
-  
-  
-### OAuth2
-* [Facebook and Google](https://github.com/taijased/swift-OAuth2-template) (in progress) OAuth2 template
-
-
 ## Playground
 
 * [Base Swift](https://github.com/taijased/base-playground-swift)
 
 
-## CoreData
+## Core Data
 * [ToDo](https://github.com/taijased/todo-coredata)
 
 ## Coordinator
@@ -190,6 +184,17 @@ Apply the skills
 * [Feed Recipe](https://github.com/taijased/FeedRecipe)
 * [Creative Workshop](https://github.com/taijased/creative-workshop)
 
+
+# IOS Template
+
+## MVVM
+  * [Table MVVM](https://github.com/taijased/table-MVVM-template)
+  * [MVVM Coordinator](https://github.com/taijased/MVVM-Coordinator-template)
+  
+  
+## OAuth2
+* [Facebook and Google](https://github.com/taijased/swift-OAuth2-template) (in progress) OAuth2 template
+
 # Test Task
 
 * [Intelligent Products & System](https://vue-test-intelligent.firebaseapp.com/) Link to the repository [here](https://github.com/taijased/test-project-intelligent)
@@ -197,21 +202,7 @@ Apply the skills
 * [Flexbox Cats](https://github.com/taijased/flexboxKOTE)
 
 
-
-
 # University
 
 ## Java
 * [Univers Cours 2](https://github.com/taijased/univers_cours2_Java) Java.Eclipse. Old projects from the University. 
-
-
-
-
-
-
-
-
-
-
-
-
