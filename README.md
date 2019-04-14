@@ -57,7 +57,7 @@ My main responsibilities in ios development:
 * attention to detail.
 
 # Work Experience
-
+![](assets/work.png)
 ## Navicon 
 
 **Junior developer (.NET)**  March 2017 — April 2017 (2 months)
