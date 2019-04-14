@@ -61,7 +61,7 @@ Apply the skills
 
 ### Projects
 
-* [Расчитай НДС](https://xn--80aamogyqjafg2d.xn--p1ai/).
+* [Расчитай НДС](https://xn--80aamogyqjafg2d.xn--p1ai/){:target="_blank"}
 
 
 
