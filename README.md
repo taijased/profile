@@ -1,8 +1,6 @@
 # Projects
 ![](assets/main.png)
 
-
-
 ## Content
 - [About](#about)
 - [Work Experience](#work-experience)
@@ -138,7 +136,7 @@ Apply the skills
 
 
 # WEB Development
-
+![](assets/web-development.png)
 ## API Tello
 * [API Trello](https://github.com/taijased/element-ui-validation-form) Form used API Trello
 
@@ -155,7 +153,7 @@ Apply the skills
 
 
 # IOS Development
-
+![](assets/ios-development.png)
 ## Autolayout
 * [NSLayoutConstraint programmatically](https://github.com/taijased/autolayout-example) Autolayout example with NSLayoutConstraint.
 
