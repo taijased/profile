@@ -1,5 +1,5 @@
 # Projects
-
+![](assets/main.png)
 ## About
 
   Hello dears! My name is Maxim I am Front-end and IOS developer. Since the first time I saw on the screen "Hello world!"I realized that this is what I want to devote myself to! Since then has flowed away a lot of lines of code.
