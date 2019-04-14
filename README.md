@@ -43,21 +43,38 @@ My main responsibilities in ios development:
   - [Hobby](#web-hobby)
 - [IOS Game](#ios-game)
 
-## Work Experience
+# Work Experience
 
-### Intelligent Product and System
+## Intelligent Product and System
 
-### Navicon
+**Web Developer** March 2017 — April 2017 (2 months)
+
+**City:** Kazan
+
+Apply the skills
+* JavaScript
+* Vue.js 
+* Webpack
+* Ionic Framework 
+* Apache cordova 
+* Angular
+
+### Projects
+
+
+
+
+## Navicon
 
 **Junior developer (.NET)** March 2017 — April 2017 (2 months)
 
-**City** Kazan
+**City:** Kazan
 
 Apply the skills
 * C#
 * .NET
 * JavaScript
 
-### ARQ
+## ARQ
 
 
