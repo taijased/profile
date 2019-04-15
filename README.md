@@ -93,6 +93,8 @@ Apply the skills
 
 ### Projects
 
+* [Application KZNLIVE](https://play.google.com/store/apps/details?id=ru.kznlive)
+* [Application Мой бухгалтер](https://play.google.com/store/apps/details?id=ru.nknalog.myBooker)
 * [live-press.ru](https://live-press.ru/)
 * [m.live-press.ru](https://m.live-press.ru/home)
 * [nknalog.ru](https://nknalog.ru/)
@@ -101,6 +103,7 @@ Apply the skills
 * [24slide.ru](https://24slide.ru/)
 * [ontravel.ips-dev.com](http://ontravel.ips-dev.com)
 * [Расчитай НДС](https://xn--80aamogyqjafg2d.xn--p1ai/)
+
 
 
 ## ARQ
