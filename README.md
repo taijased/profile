@@ -109,7 +109,7 @@ Apply the skills
 
 ## ARQ
 
-**Web Developer | IOS Developer (Middle)**  October 2018 — Present (7 months)
+**Web Developer | IOS Developer (Middle)**  October 2018 — Present Day
 
 Apply the skills
 * Swift
