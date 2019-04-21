@@ -173,6 +173,7 @@ Apply the skills
 ## Playground
 
 * [Base Swift](https://github.com/taijased/base-playground-swift)
+* [Example Patterns](https://github.com/taijased/swift-pattern)
 
 
 ## Core Data
