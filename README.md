@@ -18,6 +18,7 @@
   - [AR](#ar)
   - [Playground](#playground)
   - [Core Data](#core-data)
+  - [Core Animaition](#core-animation)
   - [Coordinator](#coordinator)
   - [RxSwift](#rxswift)
   - [Free time IOS](#free-time-ios)
@@ -180,6 +181,8 @@ Apply the skills
 ## Core Data
 * [ToDo](https://github.com/taijased/todo-coredata)
 
+## Core Animation
+* [Gradient Animation](https://github.com/taijased/swift-gradient-animation)
 ## Coordinator
 * [MVVM Coordinator](https://github.com/taijased/MVVM-Coordinator)
 * [Swift Coordinator](https://github.com/taijased/swift-Coordinator)
