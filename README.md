@@ -19,6 +19,7 @@
   - [Playground](#playground)
   - [Core Data](#core-data)
   - [Coordinator](#coordinator)
+  - [RxSwift](#rxswift)
   - [Free time IOS](#free-time-ios)
 - [IOS Template](#ios-template)
   - [MVVM](#mvvm)
@@ -182,6 +183,11 @@ Apply the skills
 ## Coordinator
 * [MVVM Coordinator](https://github.com/taijased/MVVM-Coordinator)
 * [Swift Coordinator](https://github.com/taijased/swift-Coordinator)
+
+## RxSwift
+
+* [UIKit Example](https://github.com/taijased/rxswift-uikit)
+* [Search Repository](https://github.com/taijased/repository-search)
 
 ## Free time IOS
 
