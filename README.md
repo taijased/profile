@@ -174,7 +174,7 @@ Apply the skills
 
 ## AR
 
-* [Cube Demo](https://github.com/taijased/ar-demo-cube)
+* [Simple Geometry](https://github.com/taijased/ar-simple-geometry)
 * [Unistroy](https://github.com/taijased/demo-unistroy) Need to fix the display
 
 ## Playground
