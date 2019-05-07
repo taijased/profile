@@ -174,6 +174,9 @@ Apply the skills
 
 ## AR
 
+* [Tap gesture](https://github.com/taijased/ar-tap-gesture)
+* [Detection plane and add a mesh](https://github.com/taijased/ar-plane-detection)
+* [Simple physics with cube](https://github.com/taijased/ar-simple-physics)
 * [Simple Geometry](https://github.com/taijased/ar-simple-geometry)
 * [Unistroy](https://github.com/taijased/demo-unistroy) Need to fix the display
 
