@@ -208,6 +208,7 @@ Apply the skills
 ## Free time IOS
 
 * [Recognition of bolts and nuts using neural networks](https://github.com/taijased/BoN)
+* [Swift Radio](https://github.com/taijased/swift-radio)
 * [Feed Recipe](https://github.com/taijased/FeedRecipe)
 * [Creative Workshop](https://github.com/taijased/creative-workshop)
 
