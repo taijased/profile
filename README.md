@@ -158,7 +158,7 @@ Apply the skills
 * [Selfie Places](https://apps.apple.com/us/app/selfie-places/id1472339669?l=ru&ls=1)
 * [Решай Правильно](https://apps.apple.com/us/app/%D1%80%D0%B5%D1%88%D0%B0%D0%B9-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE/id1473000463?ls=1)
 * [Radio Time](https://apps.apple.com/us/app/radio-time/id1473131723?ls=1)
-* [Franch Mathematics] (https://apps.apple.com/us/app/mathematics-temps/id1473314210?ls=1)
+* [Franch Mathematics](https://apps.apple.com/us/app/mathematics-temps/id1473314210?ls=1)
 * [Save The Bear](https://apps.apple.com/us/app/save-the-bear/id1473353290?ls=1)
 * [JustInCase](https://apps.apple.com/us/app/just-in-case/id1473531910?ls=1)
 * [TrueWord](https://apps.apple.com/us/app/hay-un-contacto/id1473573124?l=ru&ls=1)
