@@ -144,7 +144,8 @@ Apply the skills
 * [Tattelecom](https://github.com/taijased/letai-spa) Tattelecom letai
 * [Agroshop](https://github.com/taijased/agroshop2017) Old projects agroshop
 
-### IOS Application
+### IOS Applications created by me
+links in App Store
 
 * [Художественный редактор](https://apps.apple.com/us/app/художественный-редактор/id1476566845?ls=1)
 * [Verdad o acción](https://apps.apple.com/us/app/verdad-o-acci%C3%B3n/id1476355428?ls=1)
