@@ -144,6 +144,31 @@ Apply the skills
 * [Tattelecom](https://github.com/taijased/letai-spa) Tattelecom letai
 * [Agroshop](https://github.com/taijased/agroshop2017) Old projects agroshop
 
+### IOS Application
+
+* [Художественный редактор](https://apps.apple.com/us/app/художественный-редактор/id1476566845?ls=1)
+* [Verdad o acción](https://apps.apple.com/us/app/verdad-o-acci%C3%B3n/id1476355428?ls=1)
+* [Los números](https://apps.apple.com/us/app/los-n%C3%BAmeros/id1476147409?ls=1)
+* [Amazing Art Editor](https://apps.apple.com/us/app/amazing-art-editor/id1476142049?ls=1)
+* [No olvidar tareas](https://apps.apple.com/us/app/no-olvidar-tareas/id1475926104?ls=1)
+* [Count Dice](https://apps.apple.com/us/app/count-dice/id1475906560?ls=1)
+* [Kreditrechner Assistent](https://apps.apple.com/us/app/kreditrechner-assistent/id1475428319?ls=1)
+* [Aufgaben nicht vergessen](https://apps.apple.com/us/app/aufgaben-nicht-vergessen/id1475647526?ls=1)
+* [Comptez le prêt](https://apps.apple.com/us/app/comptez-le-pr%C3%AAt/id1475260253?ls=1)
+* [Selfie Places](https://apps.apple.com/us/app/selfie-places/id1472339669?l=ru&ls=1)
+* [Решай Правильно](https://apps.apple.com/us/app/%D1%80%D0%B5%D1%88%D0%B0%D0%B9-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE/id1473000463?ls=1)
+* [Radio Time](https://apps.apple.com/us/app/radio-time/id1473131723?ls=1)
+* [Franch Mathematics] (https://apps.apple.com/us/app/mathematics-temps/id1473314210?ls=1)
+* [Save The Bear](https://apps.apple.com/us/app/save-the-bear/id1473353290?ls=1)
+* [JustInCase](https://apps.apple.com/us/app/just-in-case/id1473531910?ls=1)
+* [TrueWord](https://apps.apple.com/us/app/hay-un-contacto/id1473573124?l=ru&ls=1)
+* [Дела по дому](https://apps.apple.com/us/app/%D0%B4%D0%B5%D0%BB%D0%B0-%D0%BF%D0%BE-%D0%B4%D0%BE%D0%BC%D1%83/id1473814510?ls=1)
+* [FintessDay](https://apps.apple.com/us/app/fitnessday/id1474289676?ls=1)
+* [Aritmética Simple](https://apps.apple.com/us/app/aritm%C3%A9tica-para-ni%C3%B1os/id1474487823?l=ru&ls=1)
+* [Crédito Jn](https://apps.apple.com/us/app/cr%C3%A9dito-jn/id1474781875?ls=1)
+* [BitcoinNews](https://apps.apple.com/us/app/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82/id1474999785?ls=1)
+
+
 
 # WEB Development
 ![](assets/web-development.png)
