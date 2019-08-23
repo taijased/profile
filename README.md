@@ -168,8 +168,8 @@ links in App Store
 * [Aritmética Simple](https://apps.apple.com/us/app/aritm%C3%A9tica-para-ni%C3%B1os/id1474487823?l=ru&ls=1)
 * [Crédito Jn](https://apps.apple.com/us/app/cr%C3%A9dito-jn/id1474781875?ls=1)
 * [BitcoinNews](https://apps.apple.com/us/app/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82/id1474999785?ls=1)
-
-
+* [FrogTime](https://apps.apple.com/us/app/frog-time/id1477481663?l=ru&ls=1)
+* [Art director](https://apps.apple.com/us/app/art-director/id1477042119?l=ru&ls=1)
 
 # WEB Development
 ![](assets/web-development.png)
