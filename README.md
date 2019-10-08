@@ -76,8 +76,7 @@ Participation in MS Dynamics CRM commercial projects as a developer: Participati
 Form customization; Testing modules; System setup; Carrying out pilot operation of the system.
 
 Apply the skills
-* C#
-* .NET
+* C# .NET Framework
 * JavaScript
 
 ## Intelligent Product and System
